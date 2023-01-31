@@ -1,0 +1,1 @@
+export const NO_IMAGE = 'https://m.media-amazon.com/images/M/MV5BNjUxYTkxYzgtYzU5OC00NDVmLWExYTAtYmY0NDBiZWRhY2E0XkEyXkFqcGdeQXVyNzEzMzA1MTQ@._V1_Ratio1.5946_AL_.jpg';
